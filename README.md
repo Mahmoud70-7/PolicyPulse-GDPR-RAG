@@ -136,7 +136,7 @@ This helps improve retrieval quality and reduce irrelevant context.
 
 # 👥 Team Members
 
-- Ahmed El-Mokaddem (https://github.com/elmokade)
+- Ahmed El-Mokaddem (https://github.com/elmokademahmed35-netizen)
 - Rahaf Ehab (https://github.com/RahafEA)
 - Rana Yasser (https://github.com/ranayaser)
 - Badr Ahmed (https://github.com/BadrWaqas)
